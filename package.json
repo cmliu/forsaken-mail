@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denghongcai/forrsaken-mail.git"
+    "url": "git+https://github.com/cmliu/forrsaken-mail.git"
   },
   "author": "Hongcai Deng",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/denghongcai/forrsaken-mail/issues"
+    "url": "https://github.com/cmliu/forrsaken-mail/issues"
   },
-  "homepage": "https://github.com/denghongcai/forrsaken-mail#readme",
+  "homepage": "https://github.com/cmliu/forrsaken-mail#readme",
   "dependencies": {
     "body-parser": "^1.14.2",
     "debug": "^2.2.0",
