@@ -3,7 +3,7 @@
 
 本人只修改了Dockerfile部分代码，方便部署。
 
-forked from yuki284065382/forsaken-mail!!!
+forked from cmliu/forsaken-mail!!!
 
 
 
@@ -29,8 +29,8 @@ npm install && npm start
 ```
 if you want to run this inside a docker container
 ```
-docker build -t yuki284065382/forsaken-mail .
-docker run --name forsaken-mail -d -p 25:25 -p 3000:3000 yuki284065382/forsaken-mail
+docker build -t cmliu/forsaken-mail .
+docker run --name forsaken-mail -d -p 25:25 -p 3000:3000 cmliu/forsaken-mail
 ```
 Open your browser and type in
 ```
